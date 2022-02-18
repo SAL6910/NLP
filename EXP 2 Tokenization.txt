@@ -1,0 +1,13 @@
+import nltk
+from nltk.tokenize import word_tokenize
+from nltk.tokenize import sent_tokenize
+
+str="Hello how are you ? How you doing"
+print(type(str))
+string=str.lower()
+stok=sent_tokenize(string)
+wtok=word_tokenize(string)
+print(type(stok))
+print(type(wtok))
+print(stok)
+print(wtok)

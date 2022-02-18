@@ -1,0 +1,11 @@
+import nltk
+from nltk.corpus import stopwords
+
+str="Hello how are you ? How you doing"
+stopwords=stopwords.words('english')
+ab=[]
+for a in wtok:
+  if a not in stopwords:
+    ab.append(a)
+print(ab)
+string=str.lower()
