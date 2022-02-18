@@ -1,0 +1,12 @@
+Literature Review on Election Result Prediction 
+
+This section presents the most related work to SMS on election predictions on Twitter.
+
+P. Chauhan, N. Sharma, and G. Sikka, “The emergence of social media data and sentiment analysis in election prediction,” Journal of Ambient Intelligence and Humanized Computing, vol. 12, no. 2, p. 2601, in 2020 surveyed election prediction on online platforms such as Twitter and Facebook. Their study presents an in-depth analysis of the evaluation of SA techniques used in election prediction. They overviewed nearly 48 studies, including 10 studies that tried to infer users’ political stance.
+
+In May 2019, M. Bilal, A. Gani, M. Marjani, and N. Malik, “Predicting elections: social media data and techniques,” in Proceedings of the 2019 International Conference on Engineering and Emerging Technologies (ICEET), Lahore, Pakistan, February 2019 presented a short overview of election prediction on Facebook and Twitter. They gave an overview of 13 studies. Their study mainly categorized the studies into two approaches: sentiment analysis and others. Additionally, they categorized those studies into two categories: “can predict elections” and “cannot predict elections.”
+
+P. Singh and R. S. Sawhney, “Influence of Twitter on prediction of election results,” Advances in Intelligent Systems and Computing, vol. 564, pp. 665–673, in 2018 conducted a review of 16 papers in December 2017 related to forecasting elections on Twitter. They listed the countries whose elections were analyzed and provided tweet statistics used in the selected studies. Furthermore, they listed and presented the methods used for prediction and classified the studies into successfully and unsuccessfully, predicted elections.
+
+
+All these studies presented short reviews except for P. Chauhan, N. Sharma, and G. Sikka, “The emergence of social media data and sentiment analysis in election prediction”. Besides, all the aforementioned studies performed Adhoc literature surveys, and none of them followed a detailed systematic protocol. This study is the first systematic mapping study that mainly focused on election prediction on Twitter and thoroughly overviewed and analyzed the selected 98 primary studies.
