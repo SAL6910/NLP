@@ -9,3 +9,7 @@ for a in wtok:
     ab.append(a)
 print(ab)
 string=str.lower()
+
+Output:
+
+['Hello', '?', 'How']
