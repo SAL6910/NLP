@@ -11,3 +11,12 @@ print(type(stok))
 print(type(wtok))
 print(stok)
 print(wtok)
+
+
+Output:
+
+<class 'str'>
+<class 'list'>
+<class 'list'>
+['hello how are you ?', 'how you doing']
+['hello', 'how', 'are', 'you', '?', 'how', 'you', 'doing']
