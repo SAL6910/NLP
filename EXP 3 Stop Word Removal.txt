@@ -8,7 +8,6 @@ for a in wtok:
   if a not in stopwords:
     ab.append(a)
 print(ab)
-string=str.lower()
 
 Output:
 
